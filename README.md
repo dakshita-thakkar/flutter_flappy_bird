@@ -1,16 +1,16 @@
 # flappy_birrd
 
-A new Flutter project.
+Flappy bird game is implemented in flutter using dart programming language
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+➝Simple Controls: Tap to flap the bird and navigate through pipes.
+➝Game Over Alert: Alerts players when the game is over, with an option to restart.
+➝Collision Detection: Accurate detection of bird-pipe collisions to ensure fair gameplay.
+➝Barrier Movement: Constantly moving barriers to keep the gameplay dynamic.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1717953941](https://github.com/dakshita-thakkar/flappy_bird/assets/133591416/087060b2-3d5e-43e5-a485-6aa8d4fba8b4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/dakshita-thakkar/flappy_bird/assets/133591416/802ab08c-e15d-4610-822a-5cb645bb4849)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/dakshita-thakkar/flappy_bird/assets/133591416/faccea77-8d7e-4765-99e1-cef045d5d850)
